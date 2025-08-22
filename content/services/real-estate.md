@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Real Estate Law"
-description: "Guiding individuals and businesses through property sales, leases, and disputes."
 ---
+Advising clients in property sales, leasing, and disputes with expert clarity.

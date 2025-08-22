@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Family Law"
-description: "We help families resolve disputes with dignity and care—covering divorce, custody, and child support matters."
 ---
+We help families resolve disputes with dignity — covering divorce, custody, and child support matters.

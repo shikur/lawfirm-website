@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: #333;
+  background: #fafafa;
+}
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+}
+.site-header, .site-footer {
+  background: #003366;
+  color: white;
+  padding: 15px 0;
+}
+.site-header .logo {
+  margin: 0;
+  font-size: 1.5em;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+.navbar a:hover {
+  text-decoration: underline;
+}
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  background: linear-gradient(to right, #003366, #005599);
+  color: white;
+  border-radius: 10px;
+}
+.hero h1 {
+  font-size: 2.5em;
+}
+.cta-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #FFD700;
+  color: #003366;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+}
+.cta-btn:hover {
+  background: #e6c200;
+}
+.content-sections {
+  margin-top: 40px;
+}
+.page, .blog-post {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.post-date {
+  color: #666;
+  font-size: 0.9em;
+}

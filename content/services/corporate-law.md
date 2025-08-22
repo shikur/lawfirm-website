@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Corporate Law"
-description: "Supporting startups and enterprises with contracts, compliance, and dispute resolution."
 ---
+Guiding startups and enterprises with contracts, compliance, and shareholder rights.
