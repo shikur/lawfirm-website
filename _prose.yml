@@ -1,6 +1,6 @@
 prose:
   rooturl: "content"
-  siteurl: "https://www.dangtechsys.com/"
+  siteurl: "http://www.dangtechsys.com/"
   media: "uploads"
   metadata:
     home:
