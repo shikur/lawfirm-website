@@ -75,4 +75,9 @@ We combine tradition with innovation, ensuring our services are:
 ---
 
 <!-- Footer CTA -->
-<div style="background:#003366; color:white; padding:4
+<div style="background:#003366; color:white; padding:40px; border-radius:10px; text-align:center; margin-top:50px;">
+  <h2>📞 Ready to Discuss Your Case?</h2>
+  <a href="contact.md" style="background:#FFD700; color:#003366; padding:15px 30px; border-radius:8px; font-size:1.2em; font-weight:bold; text-decoration:none;">
+    Contact Us Today
+  </a>
+</div>
